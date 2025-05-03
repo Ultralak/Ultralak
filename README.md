@@ -3,8 +3,8 @@
 - 🌱 I’m currently started learning python
 - 💞️ I’m looking to collaborate on projects such as game dev and anything that can make me a better programmer essentially as fast as possible
 - 📫 How to reach me : well you dont reach me {i reach YOU}
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: <still loading>
 
 <!---
 Ultralak/Ultralak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
