@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ultralak
 - 👀 I’m interested in well coding , obviously 
-- 🌱 I’m currently started learning python
-- 💞️ I’m looking to collaborate on projects such as game dev and anything that can make me a better programmer essentially as fast as possible
-- 📫 How to reach me : well you dont reach me {i reach YOU}
+- 🌱 I’m currently learning python and c++
+- 💞️ I’m looking to collaborate on projects especially game dev
+- 📫 How to reach me : well you dont reach me {i reach YOU} :D
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: <still loading>
 
